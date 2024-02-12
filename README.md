@@ -18,7 +18,7 @@ source venv/bin/activate #Linux
 ```
 
 ```bash
-source venv/Scripts/activate` #Windows
+source venv/Scripts/activate #Windows
 ```
 
 - Install dependencies `pip install -r requirements.txt`
